@@ -1,0 +1,74 @@
+* {
+    margin: 12px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(87, 87, 87);
+}
+
+h1 {
+    color: red;
+    text-shadow: 5px 5px 5px deeppink;
+    text-align: center;
+    font-family: "Faster One", system-ui;
+}
+
+.citacao {
+    text-align: right;
+    font-style: italic;
+    font-size: 14px;
+    color: orangered;
+    background-color: orange;
+}
+
+p {
+    font-size: 15px;
+    background-color: black;
+    color: yellow;
+    font-family: "Roboto", sans-serif;
+}
+
+.ted {
+    color: magenta;
+    background-color: purple;
+}
+
+ul {
+    color: greenyellow;
+    background-color: green;
+    font-family: "Abril Fatface", serif;
+}
+
+p .corfundo {
+    background-color: aliceblue;
+    color: gray;
+}
+
+.fundo {
+    background-color: violet;
+    color: darkmagenta;
+}
+
+#titulo {
+    color: cadetblue;
+    text-shadow: 3px 3px 5px rgb(0, 247, 255);
+    text-align: center;
+    font-family: "Ballet", cursive;
+}
+
+article p {
+    color: blue;
+    background-color: deepskyblue;
+}
+
+div h2 {
+    background-color: darkviolet;
+    color: fuchsia;
+}
+
+div ol {
+    background-color: gold;
+    color: dodgerblue;
+}

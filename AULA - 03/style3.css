@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    border: 5px solid blueviolet;
+    /* border-top: 5px double cornflowerblue;
+    border-right: 10px dashed blueviolet;
+    border-bottom: 5px dashed cadetblue;
+    border-left: 10px inset orange; */
+    /* border: 5px;
+    border-style: dashed; */
+    border-radius: 20px;
+}
+
+p {
+    color: deeppink;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+    border: 6px inset red;
+}
+
+ul {
+    background-color: green;
+    color: orangered;
+}
+
+img {
+    width: 220pt;
+    height: 220px;
+}
+
+figure {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border: 2px double red;
+    height: 200px;
+    width: 300px;
+
+}
+
+figcaption {
+    color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

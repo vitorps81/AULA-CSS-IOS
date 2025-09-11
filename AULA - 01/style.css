@@ -1,0 +1,27 @@
+body {
+    background-color: gold;
+}
+
+p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ted {
+    color: aqua;
+}
+
+.file {
+    color: rgb(255, 0, 234);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.reg {
+    color: rgb(255, 94, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

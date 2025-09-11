@@ -1,0 +1,77 @@
+body {
+    background-color: silver;
+}
+
+h1 {
+    color: orangered;
+    font-family: "Ballet", cursive;
+    text-align: center;
+    text-shadow: 20px 0px 10px rgb(255, 94, 0);
+}
+
+h2 {
+    color: rgb(148, 0, 148);
+    font-family: "Ballet", cursive;
+    text-align: end;
+
+}
+
+h3 {
+    color: blue;
+    font-family: "Ballet", cursive;
+}
+
+h4 {
+    color: fuchsia;
+    font-family: "Ballet", cursive;
+    font-size: 40px;
+    text-shadow: -10px 0px 4px rgb(255, 0, 157);
+}
+
+p {
+    color: gold;
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+    text-indent: 40px;
+}
+
+ol {
+    color: green;
+    background-color: greenyellow;
+    font-family: "Abril Fatface", serif;
+    font-weight: bold;
+}
+
+ul {
+    color: red;
+    background-color: aqua;
+    font-family: "Faster One", system-ui;
+}
+
+.rang {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+    text-shadow: 10px 5px 3px #0656b9;
+}
+
+.ted {
+    color: lightcoral;
+    font-weight: bold;
+    line-height: 200%;
+    text-align: justify;
+}
+
+article {
+    font-style: italic;
+    line-height: 200%;
+    text-align: right;
+    text-indent: 70px;
+}
+
+
+
+
+
+
+
