@@ -1,0 +1,57 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.texto1 {
+    color: blue;
+    font-size: 1.5rem;
+}
+
+.texto2 {
+    background-color: aqua;
+    height: 20vh;
+    width: 20vw;
+    color: red;
+}
+
+.texto3 {
+    color: yellow;
+    font-size: 1.4rem;
+
+}
+
+.texto4 {
+    color: green;
+    font-size: 2rem;
+}
+
+ol {
+    font-size: 1.5rem; 
+}
+
+li {
+    font-size: 2em;
+}
+
+a {
+    font-size: 2em;
+}
+
+div {
+    background-color: deeppink;
+    width: 200px;
+    height: 200px;
+    border: double 10px blueviolet;
+    box-sizing: content-box;
+}
+
+
+

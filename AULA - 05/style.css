@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('../IMG/deserto3.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    color: white;
+}
+
+.box {
+    height: 250px;
+    width: 250px;
+    border: solid 1px #8a2be2;
+    margin: 20px;
+    padding: 50px;
+}
+
+.box1 {
+    background-color: #ff4500;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+}
+
+.box2 {
+    background-color: #09ff00;
+    margin: 100px 100px;
+    padding: 25px 25px;
+}
+
+.box3 {
+    background-color: #0026ff;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-bottom: 60px;
+    margin-left: 80px;
+    padding-top: 20px;
+    padding-right: 22px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+}
+
+.box4 {
+    background-color: #ff00f2;
+    margin: 10px 30px 50px 70px;
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+}
+
+.box5 {
+    background-color: #ff0000;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    margin-left: 10px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.box6 {
+    background-color: #ffff00;
+    margin-top: 70px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    margin-left: 70px;
+    padding: 40px 10px 12px 80px;
+}
+
+
